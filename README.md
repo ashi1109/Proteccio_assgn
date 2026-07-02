@@ -203,8 +203,9 @@ Current limitations:
 ---
 
 
+
 # Deployment
-`<(https://d2pnpfrnntsw3txdya8fto.streamlit.app/)>`
+([https://your-streamlit-app-link.streamlit.app](https://d2pnpfrnntsw3txdya8fto.streamlit.app/))
 
 ---
 
