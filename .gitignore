@@ -1,4 +1,6 @@
 __pycache__/
+sample_docs
+__init__.py
 .env
 .venv/
 *.pyc
