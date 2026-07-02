@@ -204,7 +204,7 @@ Current limitations:
 
 
 # Deployment
-`(https://d2pnpfrnntsw3txdya8fto.streamlit.app/)`
+`<(https://d2pnpfrnntsw3txdya8fto.streamlit.app/)>`
 
 ---
 
